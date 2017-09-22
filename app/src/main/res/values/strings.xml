@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">钱嗖嗖管家</string>
+    <string name="show_balance">显示余额</string>
+    <string name="monthly_income_title">当月收入</string>
+    <string name="monthly_expenditure_title">当月支出</string>
+    <string name="add_cost_button_string">支出</string>
+    <string name="add_earn_button_string">收入</string>
+
+    <string name="page3_banner">备注</string>
+    <string name="page3_edit_hint">记录点滴生活&#8230;</string>
+    <string name="page3_count">0/30</string>
+
+
+
+    <!-- h5下载 -->
+    <string name="update_app_model_prepare">准备下载</string>
+    <string name="update_app_model_progress">正在下载 %1$d%2$s</string>
+    <string name="update_app_model_success">下载成功(点击安装)</string>
+    <string name="update_app_model_error">下载失败(点击用浏览器下载)</string>
+</resources>
